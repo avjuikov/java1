@@ -1,8 +1,9 @@
-.idea/
+*.idea
 
 *.out
 
 *.iml
 
+.idea/
 
 
